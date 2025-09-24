@@ -12,7 +12,7 @@ Power Query (M) – data cleaning and transformation
 
 DAX – KPI measures and time-intelligent calculations
 
-Data – Inventory_SupplyChain_Dataset.csv (included)
+Data – ![Dataset]()
 
 ### 	Data source & structure
 
