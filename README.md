@@ -92,4 +92,4 @@ Organizations often face:
 • Support monthly leadership reviews with one-page executive summary.
 
 ### 6.	Screenshots / Demos
-Example: ![Dashboard Preview]([https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png](https://github.com/Ayan1901/Inventory-and-Supply-Chain-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20dashboard.png))
+Example: ![Dashboard Preview](https://github.com/Ayan1901/Inventory-and-Supply-Chain-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20dashboard.png)
