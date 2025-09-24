@@ -12,11 +12,11 @@ Power Query (M) – data cleaning and transformation
 
 DAX – KPI measures and time-intelligent calculations
 
-Data – ![Dataset]()
+Data – ![Dataset](https://github.com/Ayan1901/Inventory-and-Supply-Chain-Analytics-Dashboard/blob/main/Inventory_Supply_Chain_Dataset.csv)
 
 ### 	Data source & structure
 
-Primary file: Inventory_SupplyChain_Dataset.csv
+Primary file: ![Dataset](https://github.com/Ayan1901/Inventory-and-Supply-Chain-Analytics-Dashboard/blob/main/Inventory_Supply_Chain_Dataset.csv)
 
 Date (YYYY-MM-DD) — transaction or snapshot date
 
