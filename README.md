@@ -1,3 +1,7 @@
+### 	Screenshots / Demos
+![Dashboard Preview](https://github.com/Ayan1901/Inventory-and-Supply-Chain-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20dashboard.png)
+
+
 # Inventory and Supply Chain Management Dashboard
 
 A Power BI dashboard that surfaces key inventory KPIs (warehouse utilization, days sales of inventory, turnover), visualizes transportation cost by region/category, tracks backorders and shows systems-level views for decision-making.
@@ -91,5 +95,3 @@ Organizations often face:
 
 • Support monthly leadership reviews with one-page executive summary.
 
-### 6.	Screenshots / Demos
-![Dashboard Preview](https://github.com/Ayan1901/Inventory-and-Supply-Chain-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20dashboard.png)
